@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ResulGulduren
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I want to advance my career at any opportunity in Data, Cloud or Cyber Security.
 - 📫 You can reach me via LinkedIn: https://www.linkedin.com/in/resul-gulduren-530258161/
 
 <!---

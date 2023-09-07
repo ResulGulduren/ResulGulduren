@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ResulGulduren
-- 👀 I’m interested in ...
+- 👀 I’m interested in Data.
 - 🌱 I’m currently learning Python.
-- 💞️ I want to advance my career at any opportunity in Data or Cyber Security.
+- 💞️ I want to advance my career at any opportunity in Data Engineering or Data Science.
 - 📫 You can reach me via LinkedIn: https://www.linkedin.com/in/resul-gulduren-530258161/
 
 <!---
